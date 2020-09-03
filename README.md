@@ -116,9 +116,9 @@ https://github.com/iberianpig/fusuma/wiki/Ubuntu
 swipe:
   3:
     left:
-      command: "xdotool key alt+Right" # History forward 
+      command: "xdotool key alt+Left" # History back 
     right:
-      command: "xdotool key alt+Left" # History back
+      command: "xdotool key alt+Right" # History forward
     up:
       command: "xdotool key super" # Activity
     down:
